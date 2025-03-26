@@ -1,0 +1,7 @@
+
+opencv-python
+scikit-learn
+numpy
+matplotlib
+scikit-image
+joblib
